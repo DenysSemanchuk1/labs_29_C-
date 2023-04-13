@@ -1,0 +1,4 @@
+John Smith 5000 1000;
+Jane Doe 6000 1200;
+Bob Johnson 4500 900;
+Alice Williams 7000 1400;
